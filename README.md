@@ -18,7 +18,7 @@ I'm a passionate technician from Davao, Philippines. I'm currently deepening my 
 
 ### Connect with Me
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jhun-rey-flores-2ba9b640a/))
 - 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
 ---
