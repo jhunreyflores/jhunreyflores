@@ -3,7 +3,7 @@
   <h3>Technician | Aspiring IT Professional | BSIS Student</h3>
   
   <p><strong>From Davao, Philippines</strong> — Building digital solutions from hardware to software.</p>
-
+</div>
 
 ---
 
