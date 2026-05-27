@@ -4,8 +4,6 @@
   
   <p><strong>From Davao, Philippines</strong> — Building digital solutions from hardware to software.</p>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=jhunreyflores&color=00C853&style=flat&label=Profile+Views)
-</div>
 
 ---
 
