@@ -1,73 +1,78 @@
 <div align="center">
-  <h1>Hi, I'm Jhun Rey Flores 👋</h1>
-  <h3>Technician | Aspiring IT Professional | BSIS Student</h3>
-  
-  <p><strong>From Davao, Philippines</strong> — Building digital solutions from hardware to software.</p>
+
+# ⚡ Hi there 👋 I'm Jhun Rey M. Flores ⚡
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Second-Year+Information+Systems+Student;Aspiring+Software+Developer;UI%2FUX+Design+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 </div>
 
----
+## 💫 About Me
 
-### 🌟 About Me
+Hello! My name is **Jhun Rey M. Flores**, a Second-Year college student currently taking up **Bachelor of Science in Information Systems**.
 
-I am a passionate **technician** currently pursuing my **Bachelor of Science in Information Systems (BSIS)** at **Davao del Norte State College**.
+I am passionate about computers, software development, programming, and designing user-friendly digital solutions. As a student, I enjoy learning how information systems, software applications, and computer technologies work.
 
-With a strong foundation in technical troubleshooting and a growing interest in IT solutions, I am building my career in the field of Information Technology. I enjoy learning new technologies and turning real-world problems into practical digital solutions.
+I continuously improve my skills in programming, system analysis, UI/UX design, and computer troubleshooting. Through academic projects and research activities, I have developed problem-solving, analytical thinking, and technical skills that help me grow in the IT field.
 
-- 🔭 **Currently Studying**: BSIS at Davao del Norte State College
-- 🌱 **Learning**: Web Development, Database Management, Networking, and IT Support
-- 📍 **Location**: Davao, Philippines
-- ⚡ **Tagline**: *“Technical skills meet digital innovation.”*
+In addition to software-related skills, I have experience in computer assembly and disassembly, operating system installation, and basic troubleshooting. I am always eager to learn new technologies and improve my abilities as a future IT professional.
 
 ---
 
-### 🛠️ Services I Offer
+## 🚀 Projects
 
-- **IT Technical Support** – Hardware troubleshooting & software installation
-- **Website Development** – Basic to intermediate websites using HTML, CSS, and JavaScript
-- **Database Management** – Simple database design and management
-- **Computer Maintenance & Repair** – System optimization and repair
-- **Digital Content Creation** – Learning materials and basic automation
+### 🎨 Figma Web Design Project
+A UI/UX design project created using Figma, focusing on creating modern, responsive, and user-friendly website interfaces.
 
-*(Aligned with my current skills as a BSIS student and technician)*
+### 📚 Academic Research Projects
+Research-based projects that enhanced my analytical, documentation, and problem-solving skills in the field of Information Systems.
 
 ---
 
-### 📂 Portfolio
+## 🛠️ Skills
 
-Here are some of my works and learning projects:
-
-- [GitHub Repositories](https://github.com/jhunreyflores?tab=repositories)
-- Basic Website Projects (will be added soon)
-- Technical Documentation & Reports
-
-*(I will update this section as I complete more projects)*
-
----
-
-### 📞 Contact Me
-
-- 📧 Email: [jhunreyflores@gmail.com](mailto:jhunreyflores@gmail.com)
-- 💼 LinkedIn: [Jhun Rey Flores](https://www.linkedin.com/in/jhun-rey-flores-2ba9b640a/)
-- 🐙 GitHub: [github.com/jhunreyflores](https://github.com/jhunreyflores)
+- 💻 Visual Studio Code (VS Code)
+- ☕ Java Programming
+- 🌐 HTML & CSS
+- 🎨 Figma UI/UX Design
+- 🖥️ Computer Assembly & Disassembly
+- ⚙️ Operating System Installation
+- 🔧 Computer Troubleshooting
+- 📊 Research and Documentation
+- 🗄️ Basic Database Management
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🎯 Interests
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-
----
-
-> *"Turning technical challenges into opportunities for growth."*
-
-Feel free to explore my profile. Open to collaborations and learning opportunities! 🚀
-Whether it's a project, collaboration, or just sharing knowledge — I'm always open to connect! 
-
-Feel free to explore my repositories and watch me grow in this tech journey. 🚀
+- 💻 Computers
+- 🚀 Software Development
+- 🎨 UI/UX Design
+- 🌐 Web Design
+- 🖥️ Computer Hardware
+- 📱 Technology & Innovation
 
 ---
 
-*“The only way to do great work is to love what you do.”* — Steve Jobs
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Contact Me
+
+📧 Email: **jhunreyf3@gmail.com**
+
+💼 LinkedIn: **www.linkedin.com/in/jhun-rey-flores**
+
+📱 Contact Number: **09956134604**
+
+📍 Location: **Tibungco, Davao City, Philippines**
+
+---
+
+### ✨ Motto
+
+> "Keep learning, keep building, and keep improving."
